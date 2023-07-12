@@ -1,0 +1,7 @@
+Slayt 20
+AL-Eşik & AL-Sinyal ?
+SAT-Eşik & SAT-Sinyal ?
+Genetic algoritmayi tam kuramadim galiba
+
+Slayt 57,58... (Grafikler)
+Mesela korelasyonda, spread varianceda hesaplarken kullanilacak parametre close mu?
